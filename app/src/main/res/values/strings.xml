@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Intcore Login</string>
+    <string name="login">Login</string>
+    <string name="signup">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="request_mobile_number_change">Request Mobile Number Change</string>
+    <string name="renter_password">Re-enter password</string>
+    <string name="signup_initiation">No account yet? Create one</string>
+    <string name="already_have_account">Already a member? Login</string>
+    <string name="ok">Ok</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="update_profile">Save Above Changes</string>
+    <string name="update_profile_password">Update Password</string>
+    <string name="change_password">Change password</string>
+    <string name="old_password">Old password</string>
+    <string name="new_password">New password</string>
+    <string name="renter_new_password">Re-enter new password</string>
+    <string name="password_no_match">Password don\'t match</string>
+    <string name="update">Update</string>
+    <string name="update_phone_number">Update Phone number</string>
+    <string-array name="image_pick_method">
+        <item>Take photo</item>
+        <item>Choose existing photo</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

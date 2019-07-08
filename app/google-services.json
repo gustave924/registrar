@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "158019503516",
+    "firebase_url": "https://registrar-b2f9c.firebaseio.com",
+    "project_id": "registrar-b2f9c",
+    "storage_bucket": "registrar-b2f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158019503516:android:1da0cbe364562dee",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.registrar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158019503516-erbbsoot3d63e0hkujcqmiaagjeh2qhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.registrar",
+            "certificate_hash": "e59865c62963b391603f1c097da42923acee0b40"
+          }
+        },
+        {
+          "client_id": "158019503516-lnqhu3pne3ch0f4l9smv1pg1vg582g4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxyNGNVXGzOOoqxN0_GcNSxz-EBSoWpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158019503516-lnqhu3pne3ch0f4l9smv1pg1vg582g4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
